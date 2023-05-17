@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ulf94, my name is Michal
 - 👀 I’m interested in programming (obviously ;) ), handball (big fan of VIVE Industria Kielce) and football (even bigger fan of RL9). One of my biggest achievements  is being an honored blood donator ! 
-- 🌱 I’m currently learning .Net, C# and Angular. I'm a PLC programmer for more than 5 years already.
-- 💞️ I’m looking to collaborate on projects related to ASP.NET Core, I'd like to improve my skills in that area.
+- 🌱 .Net programmer since end of 2022. PLC programmer for more than 6 years already.
 - 📫 How to reach me ? Just go to - https://www.linkedin.com/in/michalszura361427154/
 
